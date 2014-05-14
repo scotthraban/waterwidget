@@ -17,8 +17,9 @@ The PNG files used in the project were created using GIMP, and the GIMP XCF sour
 
 Be aware that the Fitbit4j library that I am using is from a fork of the official Fitbit4j library, as it did not have all the features that were needed (specifically the ability to get/update the water consumption log entries), and there was a defect (specifically the fetch of the water units was not correct). All changes that I have made to the library on my fork have been submitted back to the official Fitbit4J project via pull requests:
 
-https://github.com/Fitbit/fitbit4j/pull/10
 https://github.com/Fitbit/fitbit4j/pull/9
+
+https://github.com/Fitbit/fitbit4j/pull/10
 
 The original Fitbit4J library can be downloaded from Fitbit, and is also available on GitHub at https://github.com/Fitbit/fitbit4J.
 
