@@ -1,8 +1,7 @@
-waterwidget
-===========
+Water Widget
+============
 
-An Android Widget that allows the quick creation of water consumption entries. Also shows current consumption in the widget display.
-
+A widget to help quickly enter water consumption log entries, synchs with FITBITŒ·Œ·ŒÌ water consumption logs. Fitbit is a registered trademark and service mark of Fitbit, Inc. Water Widget is designed for use with the Fitbit platform. This product is not put out by Fitbit, and Fitbit does not service or warrant the functionality of this product.
 
 Usage
 =====
