@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:defaultValue="@string/settings_add_chunk_size_default"
+        android:key="add_chunk_size"
+        android:title="@string/settings_add_chunk_size_title" />
+
+    <com.hraban.android.widget.waterforfitbit.SyncNowPreference
+        android:key="sync_now"
+        android:title="@string/settings_sync_now_title" />
+    
+</PreferenceScreen>

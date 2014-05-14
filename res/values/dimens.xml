@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- v14 and up auto adds a margin of 8, need to add manually for below -->
+    <dimen name="widget_margin">8dp</dimen>
+
+</resources>

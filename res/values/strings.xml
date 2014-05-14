@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Water Widget Settings</string>
+    <string name="widget_name">Water Widget</string>
+    <string name="widget_descrip">A widget to help quickly enter water consumption log entries, synchs with FITBIT® water consumption logs. Fitbit is a registered trademark and service mark of Fitbit, Inc. Water Widget is designed for use with the Fitbit platform. This product is not put out by Fitbit, and Fitbit does not service or warrant the functionality of this product.</string>
+    <string name="button_add_water_text_imperial">%1$d fl oz</string>
+    <string name="button_add_water_text_metric">%1$d ml</string>
+        
+    <string name="add_water_activity_title">Log water consumption</string>
+    <string name="button_add_chunk_text">+10</string>
+    <string name="button_add_one_text">^</string>
+    <string name="button_subtract_one_text">v</string>
+    <string name="add_water_failure_no_connection_toast">Water consumption log synch postponed - no connection available</string>
+    <string name="add_water_failure_battery_low_toast">Water consumption log synch postponed - battery low</string>
+    <string name="add_water_failure_toast">Water consumption log synch failed</string>
+    <string name="add_water_success_toast">Water consumption log synched</string>
+    
+    <string name="settings_activity_title">Settings</string>
+    
+    <string name="settings_add_chunk_size_title">Quick add</string>
+    <string name="settings_add_chunk_size_summary_imperial">%1$s fl oz</string>
+    <string name="settings_add_chunk_size_summary_metric">%1$s ml</string>
+    <string name="settings_add_chunk_size_default">8</string>
+    
+    <string name="settings_sync_now_title">Synch now</string>
+    <string name="settings_sync_now_summary">Last synched %1$s\nLast alarmed %2$s</string>
+    <string name="sync_now_success_toast">Water consumption log synched</string>
+    <string name="sync_now_failure_toast">Water consumption log synch failed</string>
+    
+    <string name="oauth_authorization_title">Authorization</string>
+    <string name="oauth_authorization_success_toast">Authorization succeeded</string>
+    <string name="oauth_authorization_failure_toast">Authorization failed</string>
+    <string name="oauth_authorization_failure_no_connection_toast">Authorization failed - no connection available</string>
+    
+    <string name="water_units_imperial">fl oz</string>
+    <string name="water_units_metric">ml</string>
+</resources>

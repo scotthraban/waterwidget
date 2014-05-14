@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="fitbit_blue">#56c3c3</color>
+    <color name="fitbit_yellow">#ffc001</color>
+    <color name="fitbit_orange">#ff6b01</color>
+    <color name="fitbit_green">#8adf01</color>
+
+</resources>
