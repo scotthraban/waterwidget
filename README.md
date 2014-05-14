@@ -1,7 +1,7 @@
 Water Widget
 ============
 
-A widget to help quickly enter water consumption log entries, synchs with FITBITŒ·Œ·ŒÌ water consumption logs. Fitbit is a registered trademark and service mark of Fitbit, Inc. Water Widget is designed for use with the Fitbit platform. This product is not put out by Fitbit, and Fitbit does not service or warrant the functionality of this product.
+A widget to help quickly enter water consumption log entries, synchs with FITBIT¬Æ water consumption logs. Fitbit is a registered trademark and service mark of Fitbit, Inc. Water Widget is designed for use with the Fitbit platform. This product is not put out by Fitbit, and Fitbit does not service or warrant the functionality of this product.
 
 Usage
 =====
