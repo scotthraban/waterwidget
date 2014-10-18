@@ -8,6 +8,11 @@ Usage
 
 I don't mind if you use this code, subject to the license terms of course, but you will need to change the package structure so as to not clash with my widget out in the wild, should I ever decide to actually put it out on Google Play.
 
+You will need to register your own Application with dev.fitbit.com, and then put your oauth key and secret in a assets/fitbit.client.properties file like so:
+
+    oauth.consumer.key=xxxxxx
+    oauth.consumer.secret=xxxxxx
+
 Tips for building yourself
 ==========================
 
